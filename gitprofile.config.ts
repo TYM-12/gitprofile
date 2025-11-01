@@ -3,7 +3,7 @@
 const CONFIG = {
   scratch: {
     username: 'theyoungmaker', //TODO: Your Scratch username. (Required)
-    limit: 8, // How many projects to display; maximum 20
+    limit: 5, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
     corsProxy: 'https://scratchapicors-8nbi5t6td-theyoungmaker.vercel.app/', //TODO: Enter your CORS Proxy here
   },
