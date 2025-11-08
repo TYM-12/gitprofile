@@ -84,18 +84,10 @@ const CONFIG = {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Scratch',
-    'Microbit',
-    'JavaScript',
     'Design Thinking',
     'Python',
     'Git',
     'CSS',
-    'MakeCode',
-    'ScratchJr',
-    'Hopscotch',
-    'Robotics',
-    'Typescript',
   ],
   experiences: [
     {
@@ -122,17 +114,11 @@ const CONFIG = {
     },
   ],
   educations: [
+    
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Blangah Rise primary school',
+      from: '2022',
+      to: '-',
     },
   ],
   publications: [],
@@ -151,7 +137,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
